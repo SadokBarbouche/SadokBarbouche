@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SadokBarbouche
 - 🎓 I am a computer Networks engineering student at INSAT
-- 👀 I’m interested in web and mobile development 
+- 👀 I’m interested in web and mobile development and a ML enthusiast
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me : you can find me on my Facebook account : https://www.facebook.com/sadok.barbouche.942/ 
       or send me an e-mail : sadokchameseddine.barbouche@insat.ucar.tn // bribesh1234@gmail.com
